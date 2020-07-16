@@ -10,12 +10,10 @@ Incluant:
 
 # installation
 
-## cloner le dépôt
+## cloner le dépôt et installer les dépendances
 
-    @todo
-
-## installer les dépendances
-
+    git clone https://github.com/atontour/react-starter.git mon-app
+    cd mon-app
     npm install
 
 ## lancer l'app
